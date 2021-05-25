@@ -1,2 +1,2 @@
 # OSINT
-Repositório de Ferramentas para Busca em Fontes Abertas.
+In this repository, we will share tools for Open Source Intelligence.
